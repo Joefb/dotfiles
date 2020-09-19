@@ -54,6 +54,7 @@ set ruler
 set smarttab
 set autoindent
 set showtabline=2
+set colorcolumn=80
 
 " Theme
 syntax on 
